@@ -1,0 +1,12 @@
+[project]
+name = "health-wellness-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents",
+    "python-dotenv>=1.1.1",
+    "rich>=14.0.0",
+    "streamlit>=1.46.1",
+]
